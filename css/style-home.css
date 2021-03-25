@@ -322,7 +322,7 @@ header{
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-columns: repeat(3, minmax(350px, 1fr));
 	grid-gap: 1.7em;
 	margin-top: 2.1em;
 	margin-left: 2em;
